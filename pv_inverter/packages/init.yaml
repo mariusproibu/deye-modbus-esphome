@@ -18,9 +18,9 @@ substitutions:
 esphome:
   name: "${name}"
   friendly_name: "${friendly_name}"
-  comment: "${device_description} by Lewa-Reka https://github.com/Lewa-Reka/esphome-deye-inverter"
+  comment: "Deye 3 Phase Modbus to esphome"
   project:
-    name: "lewa-reka.deye-inverter"
+    name: "esphome-RS485-Deye"
     version: "0.9.4"
 
 logger:
