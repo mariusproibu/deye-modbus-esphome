@@ -16,7 +16,7 @@ substitutions:
   update_interval: 5s
 
 esphome:
-  name: deye-modbus
+  name: "${name}"
   friendly_name: "Deye Inverter"
   comment: "Deye 3 Phase Modbus to esphome"
   project:
