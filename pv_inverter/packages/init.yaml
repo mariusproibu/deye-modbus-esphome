@@ -18,7 +18,7 @@ substitutions:
 esphome:
   name: "${name}"
   friendly_name: "Deye Inverter"
-  comment: "Deye 3 Phase Modbus to esphome"
+  comment: "Deye SUN-6K-SG04LPD3-EU Modbus"
   project:
     name: "mariusproibu.rs485-deye"
     version: "0.9.4"
